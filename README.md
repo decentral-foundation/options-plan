@@ -1,3 +1,7 @@
+# README
+
+
+
 # Traveling checklist 
 
 If you are getting an airbnb make sure you have 2FA set up for your account. This is important for accounts that that you are sharing location data with. 
