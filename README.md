@@ -2,6 +2,8 @@
 
 ## Shared Social Media Accounts
 
+In most instances, there shouldn't be a need to share passwords. One point of contact per social media account. For useability and atypical circumstances, the ideal method for sharing social media accounts is to create a GSuite group, so that the app prompts the email with the 6 digit code. This is a feasibile option when the account has less than 1000 subscribers. Email systems can be compromised, and using SMS (recommend Google Fi). A team can also create a new Google Voice account, and set up gmail/gsuite forwarding. These are all band-aid solutions and are not recommended unless the situation demands for account sharing.
+
 ## Backup Virtual Authenticator
 
 For all firm accounts that involve crypto assets, finance information such as bank apps, and cloud data storage applications such as GDrive, Notion, OneDriver, Github you are required to ensure MFA is set up for your accounts. Favor Virtual Authenticator level security over phone numnber as the second factor. But be sure to put a phone number backup method. 
