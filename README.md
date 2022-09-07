@@ -7,7 +7,7 @@ For all firm accounts that involve crypto assets, finance information such as ba
 
 ## HAVE A BACKUP PHONE
 
-Dual wield your Google Authenticators. When you scan on one phone, scan on the other phone. DO NOT SEND YOUR GOOGLE AUTHENTICATOR SEED QR OR BACKUP CODES OVER AN INTERNET CONNECTIONS.
+Strongly recommended to have a backup phone for all mission critical Google Authenticator accounts. When you scan on one phone, scan on the other phone. DO NOT SEND YOUR GOOGLE AUTHENTICATOR SEED QR OR BACKUP CODES OVER AN INTERNET CONNECTION WITHOUT A VPN. 
 
 
 ## Airbnb
