@@ -10,7 +10,7 @@ Do not store passwords on your development machine filesystem if that directory 
 
 ## Backup Virtual Authenticator
 
-For all firm accounts that involve crypto assets, finance information such as bank apps, and cloud data storage applications such as GDrive, Notion, OneDriver, Github you are required to ensure MFA is set up for your accounts. Favor Virtual Authenticator level security over phone numnber as the second factor. But be sure to put a phone number backup method. 
+For all firm accounts that involve crypto assets, finance information such as bank apps, and cloud data storage applications such as GDrive, Notion, OneDrive, Github you are required to ensure MFA is set up for your accounts. Favor Virtual Authenticator level security over phone numnber as the second factor. But be sure to put a phone number backup method. 
 
 
 ## HAVE A BACKUP PHONE
