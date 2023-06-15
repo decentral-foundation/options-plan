@@ -20,11 +20,14 @@ This will include decision making on how projects and structured. Experience wit
 * Breadth of experience launching multiple types of applications and infrastructure to production
 * Extensive experience with cryptographic primitives which includes deep understanding on low level networking
   * For example how TLS, HTTPS, SSL work together
-* At least 3 years of experience deploying Rust or C++ code to production on cloud platforms 
+* At least 3 years of experience deploying Rust or C++ code to production on cloud platforms
+
 
 ## Roles and responsibilities
 
-* Host application on AWS
+* As the organization scales, you will take part in all aspects of code development, including updating and debugging landing pages, working with CMS frameworks, updating and debugging application server
+* Create policy that favors automation over repittive manual work
+* Host application on AWS using EC2 and 
 * Launch services at scale using Nginx, PM2, Node JS and in near future Kubernetes (EKS)
 * Provide P&L forecasts for the engineering budget
 * Create an effective team of full stack devs building on frameworks such as Angular/Vue/React
