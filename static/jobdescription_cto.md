@@ -24,7 +24,8 @@ This will include decision making on how projects and structured. Experience wit
 
 ## Roles and responsibilities
 
-* Launch services at scale using Rust, Nginx, Node JS, Kubernetes
+* Host application on AWS
+* Launch services at scale using Nginx, PM2, Node JS and in near future Kubernetes (EKS)
 * Provide P&L forecasts for the engineering budget
 * Create an effective team of full stack devs building on frameworks such as Angular/Vue/React
 * Take ownership of software architecture so that codebase remains flexible for the long term
