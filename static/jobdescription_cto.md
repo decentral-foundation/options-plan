@@ -27,7 +27,7 @@ This will include decision making on how projects and structured. Experience wit
 
 * As the organization scales, you will take part in all aspects of code development, including updating and debugging landing pages, working with CMS frameworks, updating and debugging application server
 * Create policy that favors automation over repittive manual work
-* Host application on AWS using EC2 and 
+* Host application on AWS using EC2 and Amplify
 * Launch services at scale using Nginx, PM2, Node JS and in near future Kubernetes (EKS)
 * Provide P&L forecasts for the engineering budget
 * Create an effective team of full stack devs building on frameworks such as Angular/Vue/React
