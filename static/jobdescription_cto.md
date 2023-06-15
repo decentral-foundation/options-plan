@@ -29,7 +29,7 @@ This will include decision making on how projects and structured. Experience wit
 * Create policy that favors automation over repittive manual work
 * Host application on AWS using EC2 and Amplify
 * Launch services at scale using Nginx, PM2, Node JS and in near future Kubernetes (EKS)
-* Provide P&L forecasts for the engineering budget
+* With a cadence of twice per fiscal quarter, provide P&L forecasts for the engineering budget
 * Create an effective team of full stack devs building on frameworks such as Angular/Vue/React
 * Take ownership of software architecture so that codebase remains flexible for the long term
 * Manage PKI infrastructure including deploy keys, developer SSH and PGP keys
