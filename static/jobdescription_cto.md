@@ -12,7 +12,8 @@ This will include decision making on how projects and structured. Experience wit
 ## Requirements
 
 * At least 5 years of professional software development experience
-* At least 2 years of Rust and or Java development experience
+* At least 1 year of Rust development preferred
+* At least 3 years of Javascript development experience that includes modern frameworks, Node, React using Redux or useState() useEffect()
 * Set developer best practices for all technology related team members
   * An environment that enables consistent checkins of clean and maintainable code
   * A high performance culture so that new engineers can contribute to the production code base on day one
