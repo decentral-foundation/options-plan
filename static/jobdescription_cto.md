@@ -12,7 +12,7 @@ This will include decision making on how projects and structured. Experience wit
 ## Requirements
 
 * At least 5 years of professional software development experience
-* At least 1 year of Rust development preferred
+* At least 1 year of Solidity development required
 * At least 3 years of Javascript development experience that includes modern frameworks, Node, React using Redux or useState() useEffect()
 * Set developer best practices for all technology related team members
   * An environment that enables consistent checkins of clean and maintainable code
