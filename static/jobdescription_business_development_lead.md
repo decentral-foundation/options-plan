@@ -1,6 +1,6 @@
 # Business Development Lead
 
-$73k – $121k • 1.0% – 3.0%  
+$73k – $121k • 5.0% – 15.0%  
 10-20% commission
 
 Decentral is building the future of sole-ownership and decentralization of data.
