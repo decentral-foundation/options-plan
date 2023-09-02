@@ -6,4 +6,5 @@
 
 # Responsibilities
 
-* Do scoping exercises where one finds out how much it costs by estimating time for work
+* Do scoping exercises where one finds out how much it costs by estimating time for work on various workstreams
+* Identify the correct order of operations for machine learning
